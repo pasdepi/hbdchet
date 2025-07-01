@@ -16,8 +16,8 @@ body {
   margin: 200px auto 0 auto;
   -webkit-box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
           box-shadow: inset 10px 0px 15px 0px rgba(0, 0, 0, 0.1);
-  background-image: -webkit-gradient(linear, left top, left bottom, from(white), to(rgba(255, 255, 255, 0.5))), url("https://tenor.com/view/animal-crossing-tom-nook-dance-gif-26607249");
-  background-image: linear-gradient(to bottom, white, rgba(255, 255, 255, 0.5)), url("https://tenor.com/view/animal-crossing-tom-nook-dance-gif-26607249");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(white), to(rgba(255, 255, 255, 0.5))), url("https://media.tenor.com/4BN1eU4FeaMAAAAC/animal-crossing-tom-nook.gif");
+  background-image: linear-gradient(to bottom, white, rgba(255, 255, 255, 0.5)), url("https://media.tenor.com/4BN1eU4FeaMAAAAC/animal-crossing-tom-nook.gif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
